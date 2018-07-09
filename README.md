@@ -1,2 +1,2 @@
-# cobra-batch-quote-processing
+# batch-processing
 A project to generate quotes 
